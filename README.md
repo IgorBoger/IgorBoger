@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**IgorBoger/IgorBoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Germany.
 
-Here are some ideas to get you started:
+I build responsive and user-friendly web applications with a strong focus on clean code, maintainable structures, and modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Angular
+- Firebase
+- Git
+- GitHub
+
+## Featured Projects
+
+- Portfolio
+- Join
+- DA Bubble
+- El Pollo Loco
+
+## Currently
+
+- Expanding my Angular skills
+- Building frontend projects
+- Open to junior frontend opportunities
+
+## Contact
+
+- Location: Idar-Oberstein, Germany
+- GitHub: github.com/IgorBoger
